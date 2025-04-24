@@ -1,0 +1,18 @@
+Package: proyecto_taller_2
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Pablo",
+           family  = "Valenzuela-Carvajal",
+           role    = c("aut", "cre", "cph"),
+           email   = "pablo.valenzuela.c@ug.uchile.cl",
+           comment = c(ORCID = "0009-0008-9087-6554")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/Lasfloresecaen/proyecto_taller_2
+BugReports: https://github.com/Lasfloresecaen/proyecto_taller_2/issues
+License: GPL (>= 2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
